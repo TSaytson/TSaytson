@@ -17,7 +17,7 @@
   <tbody >
     <tr>
       <th align="center" width="50%"> React <img src="https://user-images.githubusercontent.com/109693663/207225133-2a594a5a-56da-4b0c-91d8-8ad74eeacaab.png" width="13px"></th>
-      <th align="center" width="50%">JS Vanilla <img src="https://user-images.githubusercontent.com/109693663/207225942-d775c6d2-1830-6054-b9d3-27ffdb9977dc.png" width="12px"></th>
+      <th align="center" width="50%">JS Vanilla <img src="https://user-images.githubusercontent.com/109693663/207225942-d775c6d2-1830-4054-b9d3-27ffdb9977dc.png" width="12px"></th>
     </tr>
    <tr>
          <td>
