@@ -90,65 +90,88 @@
 &nbsp;
 
 # 🛠  Tecnologias e Ferramentas
+
 ## WebDev
-<table id='Front-end' width='70%'>
+<table id='Front-end' width='75%'>
   <tr align='center'>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
-      height='50' alt='html5 logo'/>
-      <h3>HTML</h3>
+      <a href='https://www.w3schools.com/html/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
+        height='50' alt='html5 logo'/>
+        <h3>HTML</h3>
+      </a>
     </td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
-      height='50' alt='css3 logo'>
-      <h3>CSS </h3>
+      <a href='https://www.w3schools.com/css/default.asp' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
+        height='50' alt='css3 logo'>
+        <h3>CSS </h3>
+      </a>
     </td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
-      height='50' alt='sass logo'>
-      <h3>Sass </h3>
+      <a href='https://www.w3schools.com/js/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
+        height='50' alt='javascript logo'>
+        <h3>JavaScript </h3>
+      </a>
     </td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
-      height='50' alt='bootstrap logo'>
-      <h3>Bootstrap </h3>
+      <a href='https://sass-lang.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
+        height='50' alt='sass logo'>
+        <h3>Sass </h3>
+      </a>
     </td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
-      height='50' alt=''>
-      <h3>Tailwind CSS </h3>
+      <a href='https://getbootstrap.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
+        height='50' alt='bootstrap logo'>
+        <h3>Bootstrap </h3>
+      </a>
     </td>
     <td>
-      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
-      height='50' alt='javascript logo'>
-      <h3>JavaScript </h3>
+      <a href='https://tailwindcss.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
+        height='50' alt=''>
+        <h3>Tailwind CSS </h3>
+      </a>
     </td>
   </tr>
-  <tr>
+  <tr align='center'>
     <td>
-      <img src=''
-      height='50' alt=''>
-      <h3> </h3>
+      <a href='https://www.typescriptlang.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'
+        height='50' alt='typescript logo'>
+        <h3>TypeScript </h3>
+      </a>
     </td>
     <td>
-      <img src=''
-      height='50' alt=''>
-      <h3> </h3>
+      <a href='' target='_blank'>
+        <img src=''
+        height='50' alt=''>
+        <h3> </h3>
+      </a>
     </td>
     <td>
-      <img src=''
-      height='50' alt=''>
-      <h3> </h3>
+      <a href='' target='_blank'>
+        <img src=''
+        height='50' alt=''>
+        <h3> </h3>
+      </a>
     </td>
     <td>
-      <img src=''
-      height='50' alt=''>
-      <h3> </h3>
+      <a href='' target='_blank'>
+        <img src=''
+        height='50' alt=''>
+        <h3> </h3>
+      </a>
     </td>
     <td>
-      <img src=''
-      height='50' alt=''>
-      <h3> </h3>
+      <a href='' target='_blank'>
+        <img src=''
+        height='50' alt=''>
+        <h3> </h3>
+      </a>
     </td>
   </tr>
 </table>
@@ -182,7 +205,7 @@
       </tr>      
       <tr id='Back' align='center'>
         <td>
-          <a href='https://www.npmjs.com/' target='blank'>
+          <a href='https://www.npmjs.com/' target='_blank'>
             <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'
             height='50' alt='Npm logo'>
             <h3> NPM </h3>
