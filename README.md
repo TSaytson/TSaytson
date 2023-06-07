@@ -74,11 +74,17 @@
 </div>
 &nbsp;
 
+## Vamos conversar
+[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
+&nbsp;
+
 # 🛠  Tecnologias e Ferramentas
 
  <table>
     <tbody>
-      <tr align='center'>
+      <tr id='Front' align='center'>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
           <h3> HTML</h3>
@@ -97,19 +103,21 @@
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-          <h3>React</h3>
+          <h3>React.js</h3>
         </td>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'
           height='40' alt='Next logo'>
-          <h3> Next</h3>
+          <h3> Next.js</h3>
         </td>
       </tr>      
-      <tr align='center'>
+      <tr id='Back' align='center'>
         <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'
-          height='40' alt='Npm logo'>
-          <h3> NPM </h3>
+          <a href='https://www.npmjs.com/' target='blank'>
+            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'
+            height='40' alt='Npm logo'>
+            <h3> NPM </h3>
+          </a>
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -117,12 +125,12 @@
         </td>
         <td>
           <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-          <h3> Express </h3>
+          <h3> Express.js </h3>
         </td>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg'
           height='40' alt='Nest logo'>
-          <h3> Nest </h3>
+          <h3> Nest.js </h3>
         </td>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'
@@ -135,7 +143,7 @@
           <h3> Tailwind CSS </h3>
         </td>
       </tr>
-      <tr align='center'>
+      <tr id='DB&Test' align='center'>
       <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
           <h3> PostgreSQL </h3>
@@ -163,7 +171,7 @@
           <h3>Jest</h3>
         </td>
       </tr>
-      <tr align='center'>
+      <tr id='CMD' align='center'>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'
           height='40' alt='Linux logo'>
@@ -190,7 +198,7 @@
           <h3> AWS </h3>
         </td>
       </tr>
-      <tr align='center'>
+      <tr id='C, C++, C#' align='center'>
       <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'
           height='40' alt='C logo'>
@@ -219,29 +227,7 @@
           <h3>.NET Core</h3>
         </td>
       </tr>
-      <tr align='center'>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'
-          height='40' alt='Trello logo'>
-          <h3> Trello </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg'
-          height='40' alt='Slack logo'>
-          <h3> Slack </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg'
-          height='40' alt='Jira logo'>
-          <h3> Jira </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'
-          height='40' alt='Visual Studio Code logo'>
-          <h3>VS Code </h3>
-        </td>
-      </tr>
-      <tr align='center'>
+      <tr id='Python' align='center'>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg'
           height='40' alt='Python logo'>
@@ -263,7 +249,7 @@
           <h3> Raspberry Pi</h3>
         </td>
       </tr>
-      <tr align='center'>
+      <tr id='PHP & Ruby' align='center'>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'
           height='40' alt='php logo'>
@@ -290,7 +276,7 @@
           <h3> Selenium </h3>
         </td>
       </tr>
-      <tr align='center'>
+      <tr id='DevOps' align='center'>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
           <h3> Docker </h3>
@@ -315,40 +301,64 @@
           height='40' alt='Terraform logo'>
           <h3> Terraform </h3>
         </td>
-      </tr>
-      <tr align='center'>
         <td>
-          <img src=''
-          height='40' alt=''>
-          <h3> </h3>
-        </td>
-        <td>
-          <img src=''
-          height='40' alt=''>
-          <h3> </h3>
-        </td>
-        <td>
-          <img src=''
-          height='40' alt=''>
-          <h3> </h3>
-        </td>
-        <td>
-          <img src=''
-          height='40' alt=''>
-          <h3> </h3>
-        </td>
-        <td>
-          <img src=''
-          height='40' alt=''>
-          <h3> </h3>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'
+          height='40' alt='ansible logo'>
+          <h3>Ansible</h3>
         </td>
       </tr>
+      <tr id='DataScience' align='center'>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg'
+          height='40' alt='anaconda logo'>
+          <h3>Anaconda </h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'
+          height='40' alt='tensor flow logo'>
+          <h3> Tensor Flow</h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' height='40' alt='pandas logo'>
+          <h3>Pandas </h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'
+          height='40' alt='Numpy logo'>
+          <h3>NumPy</h3>
+        </td>
+      <tr id='Tools' align='center'>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'
+          height='40' alt='Trello logo'>
+          <h3> Trello </h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg'
+          height='40' alt='Slack logo'>
+          <h3> Slack </h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg'
+          height='40' alt='Jira logo'>
+          <h3> Jira </h3>
+        </td>
+        <td>
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'
+          height='40' alt='Visual Studio Code logo'>
+          <h3>VS Code </h3>
+        </td>
+      </tr>
+      <!-- <tr align='center'>
+        <td>
+          <img src=''
+          height='40' alt=''>
+          <h3> </h3>
+        </td>
+      </tr> -->
     </tbody>
   </table>
 
-## Vamos conversar:
-[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 &nbsp;
 
