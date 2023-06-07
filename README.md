@@ -1,5 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">Hello, I'm <a href="https://tsaytson.github.io/" target="_blank">Thiago Saytson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
-
+            
 <h2 align='center'> "Who comes from where I came from don't settle for little" 🚀</h2>
 <br>
 
@@ -106,8 +107,7 @@
           <h3>React.js</h3>
         </td>
         <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'
-          height='60' alt='Next logo'>
+          <i class="devicon-nextjs-original" style='font-size:60px' alt='Next.js logo'></i>
           <h3> Next.js</h3>
         </td>
       </tr>      
@@ -253,8 +253,7 @@
           <h3> Django </h3>
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-          height='60' alt='Flask logo'/>
+          <i class="devicon-flask-original" style='font-size:60px' alt='Flask logo'></i>
           <h3> Flask</h3>
         </td>
       </tr>
@@ -285,7 +284,7 @@
           <h3> Selenium </h3>
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height='60'/>
+            <i class="devicon-apachekafka-original" style='font-size:60px' alt='Apache Kafka logo'></i>
             <h3>Apache Kafka</h3>
         </td>
       </tr>
