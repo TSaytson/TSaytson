@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm <a href="https://tsaytson.github.io/" target="_blank">Thiago Saytson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
-<h2 style='text-align:center'> "Who comes from where I came from don't settle for little" 🚀</h2>
+<h2 align='center'> "Who comes from where I came from don't settle for little" 🚀</h2>
 <br>
 
-<h2 style='text-align:justify; text-justify:inter-word'>Sobre mim</h2>
-<p >Estudante de Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro e aluno no curso de Desenvolvimento Web Full Stack da Driven Education.
+<h2 align='center'>Sobre mim</h2>
+<p style="text-align:center; text-justify:inter-character">Estudante de Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro e aluno no curso de Desenvolvimento Web Full Stack da Driven Education.
 </p>
 
 <br>
@@ -82,7 +82,7 @@
 
 # 🛠  Tecnologias e Ferramentas
 
- <table>
+ <table width='80%'>
     <tbody>
       <tr id='Front' align='center'>
         <td>
