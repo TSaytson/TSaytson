@@ -92,7 +92,7 @@
 # 🛠  Tecnologias e Ferramentas
 
 ## WebDev
-<table id='Front-end' width='75%'>
+<table width='75%'>
   <tr align='center'>
     <td>
       <a href='https://www.w3schools.com/html/' target='_blank'>
@@ -132,12 +132,19 @@
     <td>
       <a href='https://tailwindcss.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
-        height='50' alt=''>
+        height='50' alt='tailwind css logo'>
         <h3>Tailwind CSS </h3>
       </a>
     </td>
   </tr>
   <tr align='center'>
+    <td>
+      <a href='https://webpack.js.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
+        height='50' alt='webpack logo'>
+        <h3>Webpack</h3>
+      </a>
+    </td>
     <td>
       <a href='https://www.typescriptlang.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'
@@ -146,10 +153,54 @@
       </a>
     </td>
     <td>
-      <a href='' target='_blank'>
-        <img src=''
-        height='50' alt=''>
-        <h3> </h3>
+      <a href='https://angular.io/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'
+        height='50' alt='angular logo'>
+        <h3>Angular </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://react.dev/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
+        height='50' alt='react logo'>
+        <h3>React.js </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://redux.js.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'
+        height='50' alt='redux logo'>
+        <h3>Redux </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://nextjs.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'
+        height='50' alt='nextjs logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'>
+        <h3>Next.js </h3>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://nodejs.org/en' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'
+        height='50' alt='nodejs logo'>
+        <h3>Node.js </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://expressjs.com/pt-br/' target='_blank'>
+        <img src='https://skillicons.dev/icons?i=express'
+        height='50' alt='expressjs logo'>
+        <h3>Express.js </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://nestjs.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg'
+        height='50' alt='nestjs logo'>
+        <h3> Nest.js</h3>
       </a>
     </td>
     <td>
@@ -175,66 +226,160 @@
     </td>
   </tr>
 </table>
- <table width='80%'>
-    <tr id='Front' align='center'>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-        <h3> HTML</h3>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-        <h3> CSS </h3>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
-        <h3> JavaScript</h3>
-      </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"/>
-          <h3>TypeScript</h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"/>
-          <h3>React.js</h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
-          height='50' alt='Next.js logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'/>
-          <h3> Next.js</h3>
-        </td>
-      </tr>      
-      <tr id='Back' align='center'>
-        <td>
-          <a href='https://www.npmjs.com/' target='_blank'>
-            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'
-            height='50' alt='Npm logo'>
-            <h3> NPM </h3>
-          </a>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-          <h3> Node.js </h3>
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-          <h3> Express.js </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg'
-          height='50' alt='Nest logo'>
-          <h3> Nest.js </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'
-          height='50' alt='Redux logo'>
-          <h3> Redux </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
-          height='50' alt='Tailwind logo'>
-          <h3> Tailwind CSS </h3>
-        </td>
-      </tr>
+
+## CLI
+<table width='75%'>
+  <tr align='center'>
+    <td>
+      <a href='https://www.linux.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'
+        height='50' alt='linux logo'>
+        <h3>Linux </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.raspberrypi.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg'
+        height='50' alt='raspberry pi logo'>
+        <h3> Raspberry Pi</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.gnu.org/software/bash/' target='_blank'>
+        <img src='https://cdn.simpleicons.org/gnubash/4EAA25'
+        height='50' alt='bash logo'>
+        <h3>Bash </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.openssh.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg'
+        height='50' alt='ssh logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'>
+        <h3>SSH </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.npmjs.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg'
+        height='50' alt='npm logo'>
+        <h3>NPM </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://git-scm.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'
+        height='50' alt='git logo'>
+        <h3>Git </h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## DevOps
+<table width='75%'>
+  <tr align='center'>
+    <td>
+      <a href='https://www.docker.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'
+        height='50' alt='docker logo'>
+        <h3>Docker </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.nginx.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg'
+        height='50' alt='nginx logo'>
+        <h3>Nginx</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://kubernetes.io/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg'
+        height='50' alt='kubernetes logo'>
+        <h3>Kubernetes </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.terraform.io/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg'
+        height='50' alt='terraform logo'>
+        <h3>Terraform </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://docs.ansible.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'
+        height='50' alt='ansible logo'>
+        <h3>Ansible </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.jenkins.io/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg'
+        height='50' alt='jenkins logo'>
+        <h3>Jenkins </h3>
+      </a>
+    </td>
+  </tr>
+  <tr align='center'>
+    <td>
+      <a href='https://grafana.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg'
+        height='50' alt='grafana logo'>
+        <h3>Grafana </h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://prometheus.io/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg'
+        height='50' alt='prometheus logo'>
+        <h3>Prometheus</h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Data Science
+<table width='75%'>
+  <tr align='center'>
+    <td>
+      <a href='https://www.anaconda.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg'
+        height='50' alt='anaconda logo'>
+        <h3>Anaconda</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://pytorch.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'
+        height='50' alt='pytorch logo'>
+        <h3>PyTorch</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.tensorflow.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'
+        height='50' alt='tensorflow logo'>
+        <h3>TensorFlow</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://pandas.pydata.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'
+        height='50' alt='pandas logo'>
+        <h3>Pandas</h3>
+      </a>
+    </td>
+    <td>
+      <a href='https://numpy.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'
+        height='50' alt='numpy logo'>
+        <h3>NumPy</h3>
+      </a>
+    </td>
+  </tr>
+</table>
+ <table width='75%'>
       <tr id='DB&Test' align='center'>
       <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
@@ -381,61 +526,6 @@
           <h3>Apache Kafka</h3>
         </td>
       </tr>
-      <tr id='DevOps' align='center'>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-          <h3> Docker </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg'
-          height='50' alt='Nginx logo'>
-          <h3> Nginx </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg'
-          height='50' alt='Kubernetes logo'>
-          <h3> Kubernetes </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg'
-          height='50' alt='k3s logo'>
-          <h3> K3S </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg'
-          height='50' alt='Terraform logo'>
-          <h3> Terraform </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'
-          height='50' alt='ansible logo'>
-          <h3>Ansible</h3>
-        </td>
-      </tr>
-      <tr id='DataScience' align='center'>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg'
-          height='50' alt='anaconda logo'>
-          <h3>Anaconda </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg'
-          height='50' alt='Pytorch logo'>
-          <h3>PyTorch</h3>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'
-          height='50' alt='tensor flow logo'>
-          <h3> Tensor Flow</h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' height='50' alt='pandas logo'>
-          <h3>Pandas </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'
-          height='50' alt='Numpy logo'>
-          <h3>NumPy</h3>
-        </td>
       <tr id='Tools' align='center'>
         <td>
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'
@@ -456,11 +546,6 @@
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'
           height='50' alt='Visual Studio Code logo'>
           <h3>VS Code </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg'
-          height='50' alt='Raspberry Pi logo'>
-          <h3> Raspberry Pi</h3>
         </td>
       </tr>
       <!-- <tr align='center'>
