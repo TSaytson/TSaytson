@@ -91,7 +91,7 @@
 # 🛠  Tecnologias e Ferramentas
 
 ## WebDev
-<table width='550px'>
+<table width='600px'>
   <tr align='center'>
     <td width='60px'>
       <a href='https://www.w3schools.com/html/' target='_blank'>
@@ -227,7 +227,7 @@
 </table>
 
 ## DevOps
-<table width='550px'>
+<table width='600px'>
   <tr align='center'>
     <td width='60px'>
       <a href='https://www.docker.com/' target='_blank'>
