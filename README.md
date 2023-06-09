@@ -29,7 +29,7 @@
         <a href="https://github.com/TSaytson/projeto11-trackit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto11-trackit&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
       </td>
       <td>
-        <a href="https://github.com/TSaytson/projeto04-parrotscardgame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto04-parrotscardgame&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
+        <a href="https://github.com/TSaytson/projeto03-driveneats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto03-driveneats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
       </td>
    </tr>
     <tr>
@@ -37,17 +37,9 @@
         <a href="https://github.com/TSaytson/projeto10-cineflex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto10-cineflex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
       </td>
       <td>
-        <a href="https://github.com/TSaytson/projeto03-driveneats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto03-driveneats&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
-      </td>
-   </tr>
-   <tr>
-      <td>
-        <a href="https://github.com/TSaytson/projeto08-jogodaforca"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto08-jogodaforca&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
-      </td>
-      <td>
         <a href="https://github.com/TSaytson/projeto06-buzzquizz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TSaytson&repo=projeto06-buzzquizz&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60"></a>
       </td>
-    </tr>
+   </tr>
   </tbody>
 </table>
 
