@@ -16,7 +16,7 @@
  
  ## 📋 Projetos Front End
 
-<table height="350px">
+<table height="300px">
   <thead >
     <tr>
       <th align="center" width="50%"> React <img src="https://user-images.githubusercontent.com/109693663/207225133-2a594a5a-56da-4b0c-91d8-8ad74eeacaab.png" width="13px"></th>
@@ -43,10 +43,8 @@
   </tbody>
 </table>
 
-&nbsp;
-
  ## 📋 Projetos Full Stack
- <table height="350px">
+ <table height="300px">
   <thead >
     <tr>
       <th align="center" width="50%">Front End </th>
