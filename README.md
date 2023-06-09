@@ -108,13 +108,6 @@
       </a>
     </td>
     <td width='60px'>
-      <a href='https://www.w3schools.com/js/' target='_blank'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
-        height='50' alt='javascript logo'>
-        <h3>JavaScript </h3>
-      </a>
-    </td>
-    <td width='60px'>
       <a href='https://sass-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
         height='50' alt='sass logo'>
@@ -135,8 +128,6 @@
         <h3>Tailwind CSS </h3>
       </a>
     </td>
-  </tr>
-  <tr align='center'>
     <td width='60px'>
       <a href='https://webpack.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
@@ -144,13 +135,8 @@
         <h3>Webpack</h3>
       </a>
     </td>
-    <td width='60px'>
-      <a href='https://www.typescriptlang.org/' target='_blank'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'
-        height='50' alt='typescript logo'>
-        <h3>TypeScript </h3>
-      </a>
-    </td>
+  </tr>
+  <tr align='center'>
     <td width='60px'>
       <a href='https://angular.io/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'
@@ -163,6 +149,20 @@
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
         height='50' alt='react logo'>
         <h3>React.js </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://styled-components.com/' target='_blank'>
+        <img src='https://cdn.worldvectorlogo.com/logos/styled-components-1.svg'
+        height='50' alt='styled components logo'>
+        <h3>Styled Components</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://mui.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        height='50' alt='material ui logo' />
+        <h3>Material UI</h3>
       </a>
     </td>
     <td width='60px'>
@@ -203,24 +203,97 @@
       </a>
     </td>
     <td width='60px'>
-      <a href='' target='_blank'>
-        <img src=''
-        height='50' alt=''>
-        <h3> </h3>
+      <a href='https://zod.dev/' target='_blank'>
+        <img src='https://bestofjs.org/logos/zod.dark.svg'
+        height='50' alt='zod logo'>
+        <h3>Zod</h3>
       </a>
     </td>
     <td width='60px'>
-      <a href='' target='_blank'>
-        <img src=''
-        height='50' alt=''>
-        <h3> </h3>
+      <a href='https://jestjs.io/pt-BR/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
+        height="50" alt="jest logo"  />
+        <h3>Jest</h3>
       </a>
     </td>
     <td width='60px'>
-      <a href='' target='_blank'>
-        <img src=''
+      <a href='https://graphql.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg'
+        height='50' alt='graphql logo'>
+        <h3> GraphQL</h3>
+      </a>
+    </td>
+  </tr>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://dotnet.microsoft.com/en-us/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg'
         height='50' alt=''>
-        <h3> </h3>
+        <h3>.NET </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://learn.microsoft.com/en-us/dotnet/core/introduction' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg'
+        height='50' alt='dot net core logo'>
+        <h3>.NET Core </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://spring.io/projects/spring-boot' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'
+        height='50' alt='spring boot logo'>
+        <h3>Spring Boot </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.djangoproject.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'
+        height='50' alt='django logo'>
+        <h3>Django </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://flask.palletsprojects.com/en/2.3.x/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
+          height='50' alt='Flask logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'/>
+        <h3>Flask </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.selenium.dev/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg'
+        height='50' alt='selenium logo'>
+        <h3>Selenium </h3>
+      </a>
+    </td>
+  </tr>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://laravel.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg'
+        height='50' alt='laravel logo'>
+        <h3>Laravel </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://rubyonrails.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg'
+        height='50' alt='rails logo'>
+        <h3>Ruby on Rails </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://kafka.apache.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height='50' alt='Apache Kafka logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'/>
+        <h3>Apache Kafka</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.rabbitmq.com/' target='_blank'>
+        <img src='https://www.svgrepo.com/show/303576/rabbitmq-logo.svg'
+        height='50' alt='rabbitmq logo'>
+        <h3>RabbitMQ</h3>
       </a>
     </td>
   </tr>
@@ -290,6 +363,212 @@
   </tr>
 </table>
 
+## Banco de Dados e ORMs
+<table width='600px'>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://www.postgresql.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+        <h3> PostgreSQL </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.mysql.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'
+          height='50' alt='MySQL logo'>
+        <h3> MySQL </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.mongodb.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+          height="50" alt="mongodb logo"  />
+        <h3> MongoDB </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://redis.io/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
+        <h3> Redis </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.prisma.io/' target='_blank'>
+        <img src='https://www.svgrepo.com/show/374002/prisma.svg'
+          height='50' alt='prisma logo'/>
+        <h3>Prisma</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://hibernate.org/' target='_blank'>
+        <img src='https://www.svgrepo.com/show/353874/hibernate.svg'
+          height='50' alt='prisma logo'/>
+        <h3>Hibernate</h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Cloud e Deploy
+<table width='600px'>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://azure.microsoft.com/en-us/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'
+        height='50' alt='azure logo'>
+        <h3>Azure </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://aws.amazon.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'
+        height='50' alt='aws logo'>
+        <h3>AWS </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://vercel.com/' target='_blank'>
+        <img src='https://www.svgrepo.com/show/327408/logo-vercel.svg'
+        height='50' alt='vercel logo'>
+        <h3>Vercel </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://github.com/' target='_blank'>
+        <img src='https://skillicons.dev/icons?i=github'
+        height='50' alt='github logo'>
+        <h3>Github </h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Linguagens
+<table width='600px'>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://www.w3schools.com/js/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'
+        height='50' alt='javascript logo'>
+        <h3>JavaScript </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.typescriptlang.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'
+        height='50' alt='typescript logo'>
+        <h3>TypeScript </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.w3schools.com/c/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'
+        height='50' alt='C logo'>
+        <h3>C </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://isocpp.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'
+        height='50' alt='c plus plus logo'>
+        <h3> C++</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'
+        height='50' alt='C sharp logo'>
+        <h3> C#</h3>
+      </a>
+    </td>
+  </tr>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://www.python.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg'
+        height='50' alt='python logo'>
+        <h3>Python</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.php.net/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'
+        height='50' alt='php logo'>
+        <h3>PHP</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.ruby-lang.org/en/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'
+        height='50' alt='ruby logo'>
+        <h3>Ruby</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.java.com/en/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'
+        height='50' alt='java logo'>
+        <h3>Java</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://go.dev/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'
+        height='50' alt='go logo'>
+        <h3>Go</h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Produtividade
+<table width='600px'>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://trello.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
+        height='50' alt='trello logo'>
+        <h3>Trello</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://slack.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" 
+        height='50' alt='slack logo'>
+        <h3>Slack</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://jira.atlassian.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" 
+        height='50' alt='jira logo'>
+        <h3>Jira</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.notion.so/' target='_blank'>
+        <img src='https://www.svgrepo.com/show/361558/notion-logo.svg'
+        height='50' alt='notion logo'>
+        <h3>Notion</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://code.visualstudio.com/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+        height='50' alt='visual studio code logo'>
+        <h3>VS Code</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://jupyter.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" 
+        height='50' alt='Jupyter logo'>
+        <h3>Jupyter</h3>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## CLI
 <table width='600px'>
   <tr align='center'>
@@ -336,6 +615,22 @@
       </a>
     </td>
   </tr>
+  <tr align='center'>
+    <td width='60px'>
+      <a href='https://www.vim.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" 
+        height='50' alt='vim logo'/>
+        <h3>Vim</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://gcc.gnu.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" 
+        height='50' alt='gcc logo'/>
+        <h3>GCC</h3>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Data Science
@@ -378,183 +673,6 @@
     </td>
   </tr>
 </table>
- <table width='75%'>
-      <tr id='DB&Test' align='center'>
-      <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-          <h3> PostgreSQL </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'
-          height='50' alt='MySQL logo'>
-          <h3> MySQL </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-          <h3> MongoDB </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
-          <h3> Redis </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg'
-          height='50' alt='GraphQL logo'/>
-          <h3> GraphQL</h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
-          <h3>Jest</h3>
-        </td>
-      </tr>
-      <tr id='CMD' align='center'>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'
-          height='50' alt='Linux logo'>
-          <h3> Linux </h3>
-        </td>
-        <td>
-          <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
-          <h3> Bash </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-          <h3> Git </h3>
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-          <h3> GitHub </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  height="50" alt="Azure logo"/>
-          <h3> Azure </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="amazonwebservices logo"  />
-          <h3> AWS </h3>
-        </td>
-      </tr>
-      <tr id='C, C++, C#' align='center'>
-      <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'
-          height='50' alt='C logo'>
-          <h3>C</h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C plus plus logo"  />
-          <h3> C++ </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg'
-          height='50' alt='Gcc logo'/>
-          <h3> GCC </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C sharp logo"  />
-          <h3> C# </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg' height='50' alt='dot net logo'>
-          <h3>.NET</h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg'
-          height='50' alt='Dot net core logo'/>
-          <h3>.NET Core</h3>
-        </td>
-      </tr>
-      <tr id='Python' align='center'>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-          height='50' alt='java logo' />
-          <h3>Java</h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
-          height='50' alt='Spring boot logo'/>
-          <h3>Spring Boot</h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg'
-          height='50' alt='Python logo'>
-          <h3> Python </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height='50' alt='Jupyter logo'>
-          <h3>Jupyter</h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg'
-          height='50' alt='Django logo' />
-          <h3> Django </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-          height='50' alt='Flask logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'/>
-          <h3> Flask</h3>
-        </td>
-      </tr>
-      <tr id='PHP & Ruby' align='center'>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'
-          height='50' alt='php logo'>
-          <h3> PHP </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg'
-          height='50' alt='Laravel logo'>
-          <h3> Laravel </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg'
-          height='50' alt='Ruby logo'>
-          <h3> Ruby </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg'
-          height='50' alt='Rails logo'>
-          <h3>Rails</h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg'
-          height='50' alt='Selenium logo'>
-          <h3> Selenium </h3>
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height='50' alt='Apache Kafka logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'/>
-          <h3>Apache Kafka</h3>
-        </td>
-      </tr>
-      <tr id='Tools' align='center'>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg'
-          height='50' alt='Trello logo'>
-          <h3> Trello </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg'
-          height='50' alt='Slack logo'>
-          <h3> Slack </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg'
-          height='50' alt='Jira logo'>
-          <h3> Jira </h3>
-        </td>
-        <td>
-          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg'
-          height='50' alt='Visual Studio Code logo'>
-          <h3>VS Code </h3>
-        </td>
-      </tr>
-      <!-- <tr align='center'>
-        <td>
-          <img src=''
-          height='50' alt=''>
-          <h3> </h3>
-        </td>
-      </tr> -->
-  </table>
 
 
 &nbsp;
