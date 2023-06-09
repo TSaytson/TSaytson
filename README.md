@@ -291,7 +291,7 @@
 </table>
 
 ## CLI
-<table width='550px'>
+<table width='600px'>
   <tr align='center'>
     <td width='60px'>
       <a href='https://www.linux.org/' target='_blank'>
