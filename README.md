@@ -85,42 +85,42 @@
 ### Frontend
 <table width='600px'>
   <tr align='center'>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://www.w3schools.com/html/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
         height='50' alt='html5 logo'/>
         <h3>HTML</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://www.w3schools.com/css/default.asp' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
         height='50' alt='css3 logo'>
         <h3>CSS </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://sass-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
         height='50' alt='sass logo'>
         <h3>Sass </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://stylus-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg'
         height='50' alt='redux logo'>
         <h3>Stylus</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://getbootstrap.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
         height='50' alt='bootstrap logo'>
         <h3>Bootstrap </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://tailwindcss.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
         height='50' alt='tailwind css logo'>
@@ -130,42 +130,42 @@
 
   </tr>
   <tr align='center'>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://angular.io/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg'
         height='50' alt='angular logo'>
         <h3>Angular </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://react.dev/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'
         height='50' alt='react logo'>
         <h3>React.js </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://styled-components.com/' target='_blank'>
         <img src='https://cdn.worldvectorlogo.com/logos/styled-components-1.svg'
         height='50' alt='styled components logo'>
         <h3>Styled Components</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://mui.com/' target='_blank'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         height='50' alt='material ui logo' />
         <h3>Material UI</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://redux.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'
         height='50' alt='redux logo'>
         <h3>Redux </h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://nextjs.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'
         height='50' alt='nextjs logo' style='filter: invert(99%) sepia(95%) saturate(90%) hue-rotate(181deg) brightness(122%) contrast(100%)'>
@@ -174,21 +174,21 @@
     </td>
   </tr>
   <tr>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://vuejs.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg'
         height='50' alt='vuejs logo'>
         <h3>Vue.js</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://flutter.dev/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'
         height='50' alt='flutter logo'>
         <h3>Flutter</h3>
       </a>
     </td>
-    <td width='60px'>
+    <td width='60px' align="center">
       <a href='https://webpack.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
         height='50' alt='webpack logo'>
