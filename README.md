@@ -87,7 +87,7 @@
       <a href='https://www.w3schools.com/html/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
         height='50' alt='html5 logo'/>
-        <pre>HTML</pre>
+        <pre width='20px'>HTML</pre>
       </a>
     </td>
     <td width='60px'>
