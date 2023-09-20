@@ -82,10 +82,9 @@
 
 ## WebDev
 
-<table width='600px'>
 
 ### Frontend
-
+<table width='600px'>
   <tr align='center'>
     <td width='60px'>
       <a href='https://www.w3schools.com/html/' target='_blank'>
@@ -174,10 +173,12 @@
       </a>
     </td>
   </tr>
-  <hr>
+</table>
+<hr>
 
 ### Backend
 
+<table>
   <tr align='center'>
     <td width='60px'>
       <a href='https://nodejs.org/en' target='_blank'>
