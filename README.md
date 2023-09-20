@@ -145,7 +145,7 @@
       <a href='https://styled-components.com/' target='_blank'>
         <img src='https://cdn.worldvectorlogo.com/logos/styled-components-1.svg'
         height='50' alt='styled components logo'>
-        <pre>Styled Components</pre>
+        <h3>Styled Components</h3>
       </a>
     </td>
     <td width='60px'>
@@ -675,7 +675,8 @@
 &nbsp;
 <div align="center">
   <a href="https://github.com/TSaytson">
-  <img height="160vh"src="https://github-readme-stats.vercel.app/api/top-langs?username=TSaytson&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TSaytson&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=domwick&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Java Properties,Markdown,Ezhil,Bash,Text,Smali,ActionScript,ActionScript%203&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60">
 </div>
 
     
