@@ -678,8 +678,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TSaytson&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt=""/>
   <br>
   <a href="https://wakatime.com/@DomWick">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=domwick&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Java Properties,Markdown,Ezhil,Bash,Text,Smali,ActionScript,ActionScript%203&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=domwick&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Java%20Properties,Markdown,Ezhil,Bash,ActionScript,ActionScript%203&title_color=5194F0&icon_color=2234AE&text_color=FFFFFF&bg_color=0,20232A,255da8">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=domwick&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Java%20Properties,Markdown,Ezhil,Bash,Text,Smali,ActionScript,ActionScript%203&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60">
 </div>
 
     
