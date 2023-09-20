@@ -87,42 +87,42 @@
       <a href='https://www.w3schools.com/html/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
         height='50' alt='html5 logo'/>
-        <h3>HTML</h3>
+        <pre>HTML</pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://www.w3schools.com/css/default.asp' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
         height='50' alt='css3 logo'>
-        <h3>CSS </h3>
+        <pre>CSS </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://sass-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
         height='50' alt='sass logo'>
-        <h3>Sass </h3>
+        <pre>Sass </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://getbootstrap.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
         height='50' alt='bootstrap logo'>
-        <h3>Bootstrap </h3>
+        <pre>Bootstrap </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://tailwindcss.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
         height='50' alt='tailwind css logo'>
-        <h3>Tailwind CSS </h3>
+        <pre>Tailwind CSS </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://webpack.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
         height='50' alt='webpack logo'>
-        <h3>Webpack</h3>
+        <pre>Webpack</pre>
       </a>
     </td>
   </tr>
