@@ -676,6 +676,7 @@
 <div align="center">
   <a href="https://github.com/TSaytson">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TSaytson&layout=compact&show_icons=true&line_height=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60" alt=""/>
+  <br>
   <a href="https://wakatime.com/@DomWick">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=domwick&layout=compact&show_icons=true&line_height=10&hide=Other,TSConfig,Java Properties,Markdown,Ezhil,Bash,Text,Smali,ActionScript,ActionScript%203&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F60">
 </div>
