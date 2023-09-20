@@ -406,28 +406,28 @@
       <a href='https://azure.microsoft.com/en-us/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'
         height='50' alt='azure logo'>
-        <h3>Azure </h3>
+        <pre>Azure </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://aws.amazon.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'
         height='50' alt='aws logo'>
-        <h3>AWS </h3>
+        <pre>AWS </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://vercel.com/' target='_blank'>
         <img src='https://www.svgrepo.com/show/327408/logo-vercel.svg'
         height='50' alt='vercel logo'>
-        <h3>Vercel </h3>
+        <pre>Vercel </pre>
       </a>
     </td>
     <td width='60px'>
       <a href='https://github.com/' target='_blank'>
         <img src='https://skillicons.dev/icons?i=github'
         height='50' alt='github logo'>
-        <h3>Github </h3>
+        <pre>Github </pre>
       </a>
     </td>
   </tr>
