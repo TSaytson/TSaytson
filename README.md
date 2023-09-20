@@ -87,42 +87,42 @@
       <a href='https://www.w3schools.com/html/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
         height='50' alt='html5 logo'/>
-        <pre width='20px'>HTML</pre>
+        <h3>HTML</h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://www.w3schools.com/css/default.asp' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
         height='50' alt='css3 logo'>
-        <pre>CSS </pre>
+        <h3>CSS </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://sass-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
         height='50' alt='sass logo'>
-        <pre>Sass </pre>
+        <h3>Sass </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://getbootstrap.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
         height='50' alt='bootstrap logo'>
-        <pre>Bootstrap </pre>
+        <h3>Bootstrap </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://tailwindcss.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
         height='50' alt='tailwind css logo'>
-        <pre>Tailwind CSS </pre>
+        <h3>Tailwind CSS </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://webpack.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
         height='50' alt='webpack logo'>
-        <pre>Webpack</pre>
+        <h3>Webpack</h3>
       </a>
     </td>
   </tr>
@@ -145,7 +145,7 @@
       <a href='https://styled-components.com/' target='_blank'>
         <img src='https://cdn.worldvectorlogo.com/logos/styled-components-1.svg'
         height='50' alt='styled components logo'>
-        <h3>Styled Components</h3>
+        <pre>Styled Components</pre>
       </a>
     </td>
     <td width='60px'>
@@ -406,28 +406,28 @@
       <a href='https://azure.microsoft.com/en-us/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'
         height='50' alt='azure logo'>
-        <pre>Azure </pre>
+        <h3>Azure </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://aws.amazon.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'
         height='50' alt='aws logo'>
-        <pre>AWS </pre>
+        <h3>AWS </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://vercel.com/' target='_blank'>
         <img src='https://www.svgrepo.com/show/327408/logo-vercel.svg'
         height='50' alt='vercel logo'>
-        <pre>Vercel </pre>
+        <h3>Vercel </h3>
       </a>
     </td>
     <td width='60px'>
       <a href='https://github.com/' target='_blank'>
         <img src='https://skillicons.dev/icons?i=github'
         height='50' alt='github logo'>
-        <pre>Github </pre>
+        <h3>Github </h3>
       </a>
     </td>
   </tr>
