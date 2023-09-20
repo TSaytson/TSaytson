@@ -81,44 +81,44 @@
 # 🛠  Tecnologias e Ferramentas
 
 ## WebDev
-<table width='600px' align="center">
-  <tr>
-    <td width='60px' align="center">
+<table width='600px'>
+  <tr align='center'>
+    <td width='60px'>
       <a href='https://www.w3schools.com/html/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'
         height='50' alt='html5 logo'/>
         <h3>HTML</h3>
       </a>
     </td>
-    <td width='60px' align="center">
+    <td width='60px'>
       <a href='https://www.w3schools.com/css/default.asp' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'
         height='50' alt='css3 logo'>
         <h3>CSS </h3>
       </a>
     </td>
-    <td width='60px' align="center">
+    <td width='60px'>
       <a href='https://sass-lang.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'
         height='50' alt='sass logo'>
         <h3>Sass </h3>
       </a>
     </td>
-    <td width='60px' align="center">
+    <td width='60px'>
       <a href='https://getbootstrap.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
         height='50' alt='bootstrap logo'>
         <h3>Bootstrap </h3>
       </a>
     </td>
-    <td width='60px' align="center">
+    <td width='60px'>
       <a href='https://tailwindcss.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'
         height='50' alt='tailwind css logo'>
         <h3>Tailwind CSS </h3>
       </a>
     </td>
-    <td width='60px' align="center">
+    <td width='60px'>
       <a href='https://webpack.js.org/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
         height='50' alt='webpack logo'>
