@@ -82,7 +82,6 @@
 
 ## WebDev
 
-
 ### Frontend
 <table width='600px'>
   <tr align='center'>
@@ -108,6 +107,13 @@
       </a>
     </td>
     <td width='60px'>
+      <a href='https://stylus-lang.com/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg'
+        height='50' alt='redux logo'>
+        <h3>Stylus</h3>
+      </a>
+    </td>
+    <td width='60px'>
       <a href='https://getbootstrap.com/' target='_blank'>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'
         height='50' alt='bootstrap logo'>
@@ -121,13 +127,7 @@
         <h3>Tailwind CSS </h3>
       </a>
     </td>
-    <td width='60px'>
-      <a href='https://webpack.js.org/' target='_blank'>
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
-        height='50' alt='webpack logo'>
-        <h3>Webpack</h3>
-      </a>
-    </td>
+
   </tr>
   <tr align='center'>
     <td width='60px'>
@@ -173,8 +173,30 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width='60px'>
+      <a href='https://vuejs.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg'
+        height='50' alt='vuejs logo'>
+        <h3>Vue.js</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://flutter.dev/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'
+        height='50' alt='flutter logo'>
+        <h3>Flutter</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://webpack.js.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg' 
+        height='50' alt='webpack logo'>
+        <h3>Webpack</h3>
+      </a>
+    </td>
+  </tr>
 </table>
-<hr>
 
 ### Backend
 
@@ -412,6 +434,22 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width='60px' align="center">
+      <a href='https://www.microsoft.com/en-us/sql-server/sql-server-downloads' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'
+          height='50' alt='microsoft sql server logo'/>
+        <h3>Microsoft SQL Server</h3>
+      </a>
+    </td>
+    <td width='60px' align="center">
+      <a href='https://www.sqlite.org/index.html' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg'
+          height='50' alt='sqlite logo'/>
+        <h3>SQLite</h3>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Cloud e Deploy
@@ -486,6 +524,13 @@
         <h3> C#</h3>
       </a>
     </td>
+    <td width='60px'>
+      <a href='https://dart.dev/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'
+        height='50' alt='dart logo'>
+        <h3>Dart</h3>
+      </a>
+    </td>
   </tr>
   <tr align='center'>
     <td width='60px'>
@@ -521,6 +566,13 @@
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'
         height='50' alt='go logo'>
         <h3>Go</h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://www.r-project.org/' target='_blank'>
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg'
+        height='50' alt='r logo'>
+        <h3>R</h3>
       </a>
     </td>
   </tr>
