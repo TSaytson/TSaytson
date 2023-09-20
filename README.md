@@ -81,7 +81,11 @@
 # 🛠  Tecnologias e Ferramentas
 
 ## WebDev
+
 <table width='600px'>
+
+### Frontend
+
   <tr align='center'>
     <td width='60px'>
       <a href='https://www.w3schools.com/html/' target='_blank'>
@@ -170,6 +174,10 @@
       </a>
     </td>
   </tr>
+  <hr>
+
+### Backend
+
   <tr align='center'>
     <td width='60px'>
       <a href='https://nodejs.org/en' target='_blank'>
@@ -271,6 +279,12 @@
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg'
         height='50' alt='rails logo'>
         <h3>Ruby on Rails </h3>
+      </a>
+    </td>
+    <td width='60px'>
+      <a href='https://electronjs.org/' target='_blank'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height='50' alt='electron logo'/>
+        <h3>Electron</h3>
       </a>
     </td>
     <td width='60px'>
